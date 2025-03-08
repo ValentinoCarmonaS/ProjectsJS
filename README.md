@@ -13,10 +13,10 @@ Projects range from foundational exercises to certification-required application
 ### **PROJECT LIST**  
 
 #### **COMPLETED PROJECTS**  
-- **Pyramid Generator**: Introductory JavaScript concepts applied to generate dynamic pyramid structures.  
+- **Pyramid Generator**: Introductory JavaScript concepts applied to generate dynamic pyramid structures.
+- **Gradebook App**: Introductory JavaScript fundamentals concepts applied to generate this mini project
 
 #### **IN PROGRESS / UPCOMING PROJECTS**  
-- Gradebook App (JavaScript fundamentals review)  
 - Role Playing Game (Basic JS implementation)  
 - Random Background Color Changer (Debugging practice)  
 - Calorie Counter (Form validation)  
